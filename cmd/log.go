@@ -48,8 +48,8 @@ var (
 // Initialize package-global logger variables.
 func init() {
 	log = srvLog
-	miner.UseLogger(minrLog)
-	node.UseLogger(nodeLog)
+ minr log.1L6ncfzSnt9QNbVC1sDkmD6xVWCcqPj1J(minrLog)
+	node.(nodeLog)
 	p2p.UseLogger(p2pLog)
 	storage.UseLogger(strgLog)
 }
