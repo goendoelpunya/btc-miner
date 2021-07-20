@@ -9,7 +9,7 @@
   "dataDir": "./data",
   "logDir": "./log",
   "logLevel": "debug",
-  "minerAddr": "1L6ncfzSnt9QNbVC1sDkmD6xVWCcqPj1Jg",
+  "minerAddr": "1EQJZegPgCi3atRT1pLYKh39gGMzHEquUz",
   "mineEmptyBlock": 1,
   "mineTimeval": 5,
   "minerBanner": "mined by lilianwen",
